@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Yu-Hsiang Wang"
-  avatar           : "profile.png"
+  avatar           : "author-photo.png"
   bio              : "an Undergraduate student in EE at National Taiwan University."
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "shane.wang0817@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "shanewang0817"
   foursquare       :
   github           : "GarlicWang"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "shanewang0817"
   orcid            : 
   pinterest        :
   soundcloud       :
