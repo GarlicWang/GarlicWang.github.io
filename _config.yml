@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yu-Hsiang Wang"
   avatar           : "profile.png"
-  bio              : "Undergraduate student in Electrical Engineering at National Taiwan University. Currently employed at Academia Sinica as a Research Assistant."
+  bio              : "an Undergraduate student in EE at National Taiwan University."
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "GarlicWang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
