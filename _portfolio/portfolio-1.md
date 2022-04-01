@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Motion Detect LED Bike Vest"
+excerpt: "A LED bike vest using STM32 and Rpi with Machine Learning technique<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
