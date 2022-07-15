@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m an undergraduate student in [Electrical Engineering at National Taiwan University](https://web.ee.ntu.edu.tw/). I am currently employed as a Research Assistant in [CFDA & CLIP Labs](https://cfda.csie.org/), [Research Center of Information Technology Center, Academia Sinica](https://www.citi.sinica.edu.tw/). 
 
-My research interest covers Data Science and Natural Language Processing. In particular, I aim to optimize the performance of Recommendation System.
+My research interest covers Data Science. In particular, I aim to optimize the performance of Recommendation System and develop the algorithm to build a comprehensive knowledge graph.
 
 Previously, I am actively involved in activities and held numerous events. I was the activities officer in the NTU Pop Music club as well 🎤. Besides that, I enjoy playing basketball 🏀 and guitar 🎸. I was a formal member in NTUEE Basketball Team.
 
