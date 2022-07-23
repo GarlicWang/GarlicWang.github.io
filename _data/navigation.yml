@@ -22,7 +22,8 @@ main:
     url: "https://medium.com/@shanewang0817"
 
   - title: "Resume"
-    url: "https://www.cakeresume.com/shanewang"
+    url: /resume/
+    # url: "https://www.cakeresume.com/shanewang"
     
   # - title: "Guide"
   #   url: /markdown/
