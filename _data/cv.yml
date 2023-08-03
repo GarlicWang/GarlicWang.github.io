@@ -2,64 +2,57 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yu-Hsiang (Shane) Wang
+    - name:  Contact
+      value: b08901041 (at) ntu (dot) edu (dot) tw
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    # - title: PhD
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1905
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    - title: B.S. in Electrical Engineering
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "overall GPA: 4.09/4.30"
+        - "Honors: PresidentialAward (F’20)"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Research Assistant"
+      institution: "UCLA"
+      year: "2023"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: "Research Assistant"
+      institution: "National Taiwan University"
+      year: "2022 - 2023"
       description:
-        - Description 1.
-        - Description 2.
+        - I worked on a Graph Neural Network project and tried to increase the accuracy of node classification of heterogeneous graph by GNN and graph augmentation.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: "Research Assistant"
+      institution: "CITI, Academia Sinica"
+      year: "2021 - 2023"
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - "We cooperated with KKStream Data Science Team to improve the performance of their recommendation system using data science methodologies. We aimed to develop effective algorithm for Entity Alignment task, merging multiple knowledge graphs into a complete one. I was in charge of integrating probabilistic reasoning and semantic information into a practical algorithm."
+        - "I was in charge of developing Knowledge Graph-based Recommendation System on KKStream's data."
 
 - title: Open Source Projects
   type: time_table
