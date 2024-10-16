@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /assets/pdf/Awesome_CV.pdf
+permalink: /assets/pdf/CV.pdf
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: Awesome_CV.pdf
+cv_pdf: CV.pdf
 description: 
 ---
