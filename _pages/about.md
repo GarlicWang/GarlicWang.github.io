@@ -6,7 +6,7 @@ subtitle: Ph.D. student in ECE at UIUC
 
 profile:
   align: right
-  image: grad_photo_crop1.jpg
+  image: uiuc_photo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>email: yw121 (at)</p>
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I’m a first-year PhD student majoring in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with [Prof. Olgica Milenkovic](https://publish.illinois.edu/milenkovic/).
-My research interest mainly covers graph neural networks and large language models.
+My research interests primarily focus on graph neural networks and generative AI for biological applications.
 
 Previously, I obtained my bachelor degree in Electrical Engineering at National Taiwan University.
 I was a research assistant advised by [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), focusing on uncertainty estimation in large language models.
