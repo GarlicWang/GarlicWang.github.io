@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shane Wang # the website title (if blank, full name will be used instead)
-first_name: Shane
+title: Yu-Hsiang Wang # the website title (if blank, full name will be used instead)
+first_name: Yu-Hsiang
 middle_name: 
 last_name: Wang
 email: shane.wang0817@gmail.com
@@ -81,7 +81,7 @@ scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: shanewang0817 # your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
