@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a first-year PhD student majoring in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with [Prof. Olgica Milenkovic](https://publish.illinois.edu/milenkovic/).
-My research interests primarily focus on graph neural networks and generative AI for biological applications.
+I’m a second-year PhD student in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with [Prof. Olgica Milenkovic](https://publish.illinois.edu/milenkovic/).
+My research interests primarily focus on generative modeling.
 
 Previously, I obtained my bachelor degree in Electrical Engineering at National Taiwan University.
 I was a research assistant advised by [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), focusing on uncertainty estimation in large language models.
