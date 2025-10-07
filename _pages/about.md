@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I’m a second-year PhD student in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with [Prof. Olgica Milenkovic](https://publish.illinois.edu/milenkovic/).
-My research interests primarily focus on generative modeling.
+My research interests primarily focus on generative modeling for drug design and time series data.
 
 Previously, I obtained my bachelor degree in Electrical Engineering at National Taiwan University.
 I was a research assistant advised by [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), focusing on uncertainty estimation in large language models.
