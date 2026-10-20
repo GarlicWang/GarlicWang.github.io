@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student in ECE at UIUC
+subtitle: # Ph.D. student in ECE at UIUC
 
 profile:
   align: right
@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with [Prof. Olgica Milenkovic](https://publish.illinois.edu/milenkovic/).
-My research interests primarily focus on generative models.
-
+I’m a Ph.D. candidate in Electrical & Computer Engineering at University of Illinois Urbana-Champaign, where I work with Prof. [Olgica Milenkovic](https://scholar.google.com/citations?user=G4LSqL8AAAAJ&hl=en&oi=ao).
 Previously, I obtained my bachelor degree in Electrical Engineering at National Taiwan University.
-I was a research assistant advised by [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), focusing on uncertainty estimation in large language models.
+
+My research focuses on generative models across diverse data modalities, including time series, graphs, and images.
+More recently, I have been working on rare event sampling, with applications such as transition path sampling in molecular dynamics.
+<!-- I was a research assistant advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), focusing on uncertainty estimation in large language models. -->
 
 <!-- Prior to this, I worked with [Prof. Chaun-Ju Wang](http://cfda.csie.org/) and [Prof. Che Lin](https://www.idssp.ee.ntu.edu.tw/) focusing on knowledge graph completion and heterogeneous graph neural networks. I have also spent time at the CMoney AI team developing explainable recommendation systems. -->
 
